@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"/c/Users/Gilda/Documents/PurheSoft/assets/css/\")",
+      "Read(//c/Users/Gilda/Documents/PurheSoft/assets/css//**)",
+      "Bash(ls \"/c/Users/Gilda/Documents/PurheSoft/images/\")",
+      "Read(//c/Users/Gilda/Documents/PurheSoft/images//**)"
+    ]
+  }
+}
